@@ -2,7 +2,7 @@
 
 _Note: For all ```commands``` below, type them into terminal, unless it specifies to insert them into a file._
 
-#### 1. Open up a workspace, 
+#### 1. Open up a workspace 
 * Create a project folder and cd into it
 
     ```mkdir <project-name>```
