@@ -44,7 +44,9 @@ _Note: For all ```commands``` below, type them into terminal, unless it specifie
 	app.listen(PORT, () => {
 	    console.log("You are listening at port: 8000");
 	})
+	
 	```
+	
   </details>
 	    
 #### 4. Let's test our server
