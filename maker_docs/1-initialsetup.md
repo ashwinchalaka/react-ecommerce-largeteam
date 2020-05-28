@@ -54,11 +54,17 @@ _Note: For all ```commands``` below, type them into terminal, unless it specifie
 	
 	```nodemon server``` OR ```nodemon server.js```
 	
+* If you see something that looks like **this** in your terminal, then you got it
+
+	![server-success-1](./1-media/server-success-1.png)
+	
+* You can also navigate to your browser and in the URL enter in "localhost:8000", it should bring up something like this
+
+	![server-success-2](./1-media/server-success-2.png)
+	
 * Stop server command
 
-	```^C``` a.k.a. (ctrl + c)
-	
-* If you see something that looks like **this**, then you got it	
+```^C``` a.k.a. (ctrl + c)	
 	
 #### 5. Set up for front-end
 * Run the script to set up our REACT files
@@ -77,10 +83,16 @@ _Note: For all ```commands``` below, type them into terminal, unless it specifie
 	
 	*^This will automatically open the app in your browser*
 	
+* If you see something that looks like **this** in the terminal, then you got it
+
+	![reactapp-success-2](./1-media/reactapp-success-1.png)
+	
+* It will automatically open in your browswer something that looks like this
+
+	![reactapp-success-2](./1-media/reactapp-success-2.png)
+	
 * Stop react app command
 
-	```^C``` a.k.a. (ctrl + c)
-	
-* If you see something that looks like **this**, then you got it
+	```^C``` a.k.a. (ctrl + c)	
 
 # Next Up: 2-
